@@ -7,8 +7,8 @@ This is my todo list
 1. first item
 2. second item
 3. third item
-  *a) first subitem
-  *b) second subitem
-  *c) third subitem
+  * first subitem
+  * second subitem
+  * third subitem
 
-___I am now finished!!__
+**I am now finished!!**
